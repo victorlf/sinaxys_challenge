@@ -8,13 +8,13 @@
   * Navegação `Modular 5.0.3`
   
 
-   ### Resultado Final:
+  ## Resultado Final:
   
  <p align="left">
  <img  width="300"  src="assets/app-synaxys-challenge.gif">
  </p>
  
- ### Download do APK do App
+ ## Download do APK do App
  Para testar o aplicativo basta fazer o [|| Download do APK ||](https://github.com/victorlf/sinaxys_challenge/raw/main/assets/app-synaxys-challenge.apk) e instala-lo em seu dipositivo android.
 
 
