@@ -15,6 +15,6 @@
  </p>
  
  ### Download do APK do App
- Para testar o aplicativo basta fazer o [|| Download do APK||](https://github.com/victorlf/sinaxys_challenge/raw/main/assets/app-synaxys-challenge.apk) e instala-lo em seu dipositivo android.
+ Para testar o aplicativo basta fazer o [|| Download do APK ||](https://github.com/victorlf/sinaxys_challenge/raw/main/assets/app-synaxys-challenge.apk) e instala-lo em seu dipositivo android.
 
 
